@@ -9,7 +9,7 @@ public class App {
 	public static void main(String[] args) {
 		System.out.println("SpringBoot启动了");
 		SpringApplication.run(App.class, args);
-		
+		System.out.println("SpringBoot...");
 	}
 
 }
